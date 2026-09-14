@@ -94,11 +94,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnjanaJayamaha&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="Anjana's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaJayamaha&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaJayamaha&theme=radical&hide_border=true&background=161b22" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaJayamaha&theme=radical&hide_border=true&background=161b22" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaJayamaha&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
 </div>
 
 ---
@@ -106,7 +106,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanaJayamaha&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanaJayamaha&theme=react-dark&hide_border=true&bg_color=161b22" alt="Activity Graph" />
 </div>
 
 ---
