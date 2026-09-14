@@ -4,17 +4,18 @@
 
 # 👋 Hi, I'm Anjana Jayamaha
 
-🎓 **Information Technology & Management Undergraduate @ University of Moratuwa**  
-💻 **Software Engineering & Full-Stack Development Enthusiast**  
-☁️ **Exploring DevOps & Cloud Technologies**  
-🚀 **Building practical and user-focused software solutions**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Information+Technology+%26+Management+Undergraduate+%40+UoM;Software+Engineering+%26+Full-Stack+Developer;Exploring+DevOps+%26+Cloud+Technologies;Building+Practical+Software+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00f2fe?style=for-the-badge&logo-color=white)](https://anjanajayamaha-web.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-jayamaha-332a0b317/)
 [![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanajayamaha21@gmail.com)
-[![GitHub](https://img.shields.io/badge/_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjanaJayamaha)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjanaJayamaha)
 
 </div>
 
@@ -87,6 +88,18 @@
 | :--- | :--- | :--- |
 | **🤖 ANJ Chatbot** | Mood-aware AI companion built with advanced API integrations. | `React` `TypeScript` `Vite` `Groq API` |
 | **🏫 LittleSparks** | Childcare management system for admins, staff, and parents. | `React` `Spring Boot` `MySQL` |
+
+---
+
+## 🐍 GitHub Contribution Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnjanaJayamaha/AnjanaJayamaha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnjanaJayamaha/AnjanaJayamaha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnjanaJayamaha/AnjanaJayamaha/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
