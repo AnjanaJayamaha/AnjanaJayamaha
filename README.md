@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00f2fe?style=for-the-badge&logo-color=white)](https://anjanajayamaha-web.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-jayamaha-332a0b317/)
 [![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanajayamaha21@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjanaJayamaha)
+[![GitHub](https://img.shields.io/badge/_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjanaJayamaha)
 
 </div>
 
